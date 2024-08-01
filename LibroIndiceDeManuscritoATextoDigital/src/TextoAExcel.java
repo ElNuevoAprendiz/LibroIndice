@@ -1,8 +1,3 @@
-public class Version1ConAyudaDeGemini {
-    
-
-}
-
 import org.apache.poi.ss.usermodel.*;
 import java.io.FileOutputStream;
 import java.io.IOException;
